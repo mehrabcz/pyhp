@@ -1,7 +1,0 @@
-README.md
-pyhp
-setup.py
-pyhp.egg-info/PKG-INFO
-pyhp.egg-info/SOURCES.txt
-pyhp.egg-info/dependency_links.txt
-pyhp.egg-info/top_level.txt
