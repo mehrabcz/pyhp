@@ -1,3 +1,4 @@
 #!/usr/bin/env python
 
-print('hi there')
+def main():
+    print('hi there')
