@@ -7,10 +7,7 @@ setuptools.setup(
     name="pyhp",
     version="0.0.1",
     author="mehrab_cz",
-    entry_points = {
-        # 'console_scripts': ['pyhp=funniest.command_line:main'],
-        'console_scripts': ['pyhp=pyhp.py:main'],
-    },
+    scripts=['pyhp']
     author_email="babapourmehrab@gmail.com",
     description="A small example package",
     long_description=long_description,
