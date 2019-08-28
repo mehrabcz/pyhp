@@ -9,7 +9,7 @@ setuptools.setup(
     author="mehrab_cz",
     entry_points = {
         # 'console_scripts': ['pyhp=funniest.command_line:main'],
-        'console_scripts': ['pyhp=pyhp.py'],
+        'console_scripts': ['pyhp=pyhp.py:main'],
     },
     author_email="babapourmehrab@gmail.com",
     description="A small example package",
